@@ -1,3 +1,0 @@
-C:/Users/piego/Documents/Proyectos EDI/EDI-2022-II-Parcial-1/cmake-build-debug/CMakeFiles/EDI_2022_II_Parcial_1.dir
-C:/Users/piego/Documents/Proyectos EDI/EDI-2022-II-Parcial-1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/piego/Documents/Proyectos EDI/EDI-2022-II-Parcial-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
